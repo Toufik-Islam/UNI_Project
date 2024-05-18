@@ -1,0 +1,4 @@
+Lab 1:10-12:401:Teacher:
+Lab 2:12-02:301:Teacher:
+Class:10-11:301:Teacher:
+Laptop:10-04:hp1234:Teacher:
